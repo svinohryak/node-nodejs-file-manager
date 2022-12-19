@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@svinohryak:svinohryak/node-nodejs-file-manager.git"
+  },
+  "author": "aleksandr-shcheglov",
+  "license": "ISC",
+  "homepage": "https://github.com/svinohryak/node-nodejs-file-manager#readme"
+}
